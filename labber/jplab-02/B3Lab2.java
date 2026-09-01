@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class B3 {
+public class B3Lab2 {
 
     public static void main(String[] args) {
 

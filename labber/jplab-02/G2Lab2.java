@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class G2 {
+public class G2Lab2 {
     public static void main(String args[]) {
        Scanner scanner = new Scanner(System.in); 
        int i = 0;
